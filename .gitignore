@@ -1,0 +1,9 @@
+.vercel/
+screenshots/
+*.zip
+reference/
+site-reference.html
+style-v2.css
+.env
+.env.*
+!.env.example
